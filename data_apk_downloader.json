@@ -1,4 +1,4 @@
 {
-  "update": false,
-  "link_download": "https://apps-backend-s.vercel.app/data_apk_downloader.json"
+  "update": true,
+  "link_download": ""
 }
