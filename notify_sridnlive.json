@@ -1,0 +1,10 @@
+{
+  "notify1": {
+    "message": "welcome",
+    "aktif": false
+  },
+  "notify2": {
+    "message": "thank you for using this app",
+    "aktif": true
+  }
+}
