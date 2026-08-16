@@ -1,10 +1,42 @@
 {
   "notify1": {
-    "message": "welcome",
-    "aktif": false
+    "message": "Anjay asek",
+    "aktif": true
   },
   "notify2": {
-    "message": "thank you for using this app",
+    "message": "Gw saurus, kenalin pembuat apk ini",
+    "aktif": true
+  },
+  "notify3": {
+    "message": "Tunggu apk ini rilis di apkpure",
+    "aktif": true
+  },
+  "notify4": {
+    "message": "Enak yah jadi owner apk",
+    "aktif": true
+  },
+  "notify5": {
+    "message": "Enak ni keknya spam notif",
+    "aktif": true
+  },
+  "notify6": {
+    "message": "Maaf kalo keganggu eaa",
+    "aktif": true
+  },
+  "notify7": {
+    "message": "Ppppp",
+    "aktif": true
+  },
+  "notify8": {
+    "message": "Gabut kali wak",
+    "aktif": true
+  },
+  "notify9": {
+    "message": "Ini yah rasanya pemilik apk",
+    "aktif": true
+  },
+  "notify10": {
+    "message": "Hmm dahlah",
     "aktif": true
   }
 }
