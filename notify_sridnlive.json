@@ -1,6 +1,14 @@
-{
-  "notify1": {
-    "message": "Welcome, thank you for using this app SRIDNLive",
-    "aktif": true
+[
+  {
+    "index": 1,
+    "aktif": true,
+    "teks": "thanks for using sridnlive",
+    "source_url": ""
+  },
+  {
+    "index": 2,
+    "aktif": false,
+    "teks": "test",
+    "source_url": ""
   }
-}
+]
